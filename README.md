@@ -1,3 +1,19 @@
+<!--
+**thinkswell/thinkswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Express, NodeJs, Express, MongoDB
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 <h1 align="center">Hi 👋, I'm Arief Izzuddin</h1>
 <h3 align="center">A passionate Web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400"
@@ -61,11 +77,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=izud19&theme=monokai&show_icons=true&locale=en&layout=compact"
-    alt="izud19" /><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=izud19&theme=monokai&show_icons=true&locale=en"
-    alt="izud19" /><br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izud19&theme=monokai" alt="izud19" /><br />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=izud19&theme=tokyonight&show_icons=true&locale=en&layout=compact"
+    alt="izud19" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=izud19&theme=tokyonight&show_icons=true&locale=en"
+    alt="izud19" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izud19&theme=tokyonight" alt="izud19" /><br />
 </p>
 
 <!-- ref to this youtobe channel: https://www.youtube.com/watch?v=G-EGDH50hGE&ab_channel=RishavChanda-->
