@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS and Bootstrap**
 - 🤔 I’m looking for help with master of programming. hehe </br>
-- 📫 How to reach me: <a href="ariefizzuddin19@gmail.com">Email me!</a>
+- 📫 How to reach me: ariefizzuddin19@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
